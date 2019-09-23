@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chuiseifar.chroni.de/sitemap.xml
